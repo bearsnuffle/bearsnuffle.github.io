@@ -28,6 +28,7 @@ And so, when I say learning a language twice in the title, I say that because al
 ## Oh, and on athletic software engineering...
 
 <img width="180px" class="rounded float-start pe-4" src="../img/typescript/fast_typer.gif">
+
 Please don't tease me for saying that. 
 
 Anyway, as part of the training regiment for learning TypeScript, I did some 'Workouts of the Day' (WODs), which are just short coding problems (<10-15mins) where you practice your coding "thinking" and know-how. I'd say its useful both in the abstract thinking sense (how to approach and solve problems) and in the general language sense (how to actually write and implement said solution). I really enjoy it. I like that its short, and puts some pressure on you to think as best you can. Its not necessarily about "correctness" in the way that there is a time limit and I am given the solution at the end, but moreso a check on your knowledge. 
