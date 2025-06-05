@@ -31,7 +31,7 @@ Please don't tease for me saying that.
 
 Anyway, as part of the training regiment for learning TypeScript, I did some 'Workouts of the Day' (WODs), which are just short coding problems (<10-15mins) where you practice your coding "thinking" and know-how. I'd say its useful both in the abstract thinking sense (how to approach and solve problems) and in the general language sense (how to actually write and implement said solution). I really enjoy it. I like that its short, and puts some pressure on you to think as best you can. Its not necessarily about "correctness" in the way that there is a time limit and I am given the solution at the end, but moreso a check on your knowledge. 
 
-In my view, in the case that you don't know how to do it, you do now so you always come away with something. Because of that, I think challenging problems do a great job of really forcing you to think (insert smoke emanating from my skull) but also giving you an opportunity to see where you were wrong in your thinking (fundamentally and perceptually) all within less than the time of a normal lecture period. 
+In my view, in the case that you don't know how to do it, you do now so you always come away with something. Because of that, I think challenging problems do a great job of really forcing you to think (*insert image of smoke emanating from my skull*) but also giving you an opportunity to see where you were wrong in your thinking all within less than the time of a normal lecture period. 
 
 ## Takeaways
 
