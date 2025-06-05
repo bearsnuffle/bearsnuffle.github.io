@@ -8,6 +8,7 @@ published: true
 labels:
   - Reflection
   - University
+  - JavaScript
 ---
 
 <img width="488px" class="rounded float-start pe-4" src="../img/typescript/typescript_head.png">
