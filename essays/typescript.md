@@ -10,7 +10,7 @@ labels:
   - University
 ---
 
-<img width="788px" class="rounded float-start pe-4" src="../img/typescript/typescript_head.jpg">
+<img width="788px" class="rounded float-start pe-4" src="../img/typescript/typescript_head.png">
 
 ## Javascript
 
