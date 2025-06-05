@@ -27,7 +27,7 @@ And so, when I say learning a language twice in the title, I say that because al
 
 ## Oh, and on athletic software engineering...
 
-Please don't tease for me saying that. 
+Please don't tease me for saying that. 
 
 <img width="180px" class="rounded float-start pe-4" src="../img/typescript/fast_typer.gif">
 
