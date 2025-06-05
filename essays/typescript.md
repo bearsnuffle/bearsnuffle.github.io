@@ -11,7 +11,7 @@ labels:
   - JavaScript
 ---
 
-<img width="488px" class="rounded float-start pe-4" src="../img/typescript/typescript_head.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/typescript/typescript_head.png">
 
 ## Javascript
 
