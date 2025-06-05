@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Learning a language twice"
+title: "Learning a Language Twice"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-04
 published: true
