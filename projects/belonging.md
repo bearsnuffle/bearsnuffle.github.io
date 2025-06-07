@@ -10,9 +10,10 @@ labels:
   - GitHub
 summary: "A 2D platformer game that I helped develop for ICS 485."
 ---
-<img class="img-fluid" src="../img/belonging/TitleLogo.png">
+<img width= "400px" class="img-fluid" src="../img/belonging/TitleLogo.png">
 
 ### What is Belonging?
+
 Belonging is a 2D platformer RPG game developed in Unity by myself and a group for our Video Game Development class. 
 
 It features a top-down open world where you explore the village and nearby forests as well as talk to and interact with other NPCs and objects. We've also implemented
