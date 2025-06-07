@@ -25,4 +25,5 @@ The game is not yet finished. But here is a little trailer we made for our proce
 
 {% include youtube.html id="OtlVA214Uug" %}
 
-Source: <a href="https://github.com/Just-Making-Kool-Renders/belonging><i class="large github icon "></i>Belonging Github Repo</a>
+Source: <a href="https://github.com/Just-Making-Kool-Renders/belonging"><i class="large github icon "></i>Belonging-Github-Repo</a>
+
