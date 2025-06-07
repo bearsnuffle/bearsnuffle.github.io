@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/belonging/TitleLogo.png
 title: "Belonging"
 date: 2025
 published: false
@@ -23,6 +23,6 @@ including two bosses.
 
 The game is not yet finished. But here is a little trailer we made for our process.
 
-<iframe width="560" height="315" style="display: block; margin: auto;" src="https://youtube.com/embed/OtlVA214Uug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include youtube.html id="OtlVA214Uug" %}
 
 Source: <a href="https://github.com/Just-Making-Kool-Renders/belonging><i class="large github icon "></i>Belonging Github Repo</a>
