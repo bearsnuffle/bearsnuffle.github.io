@@ -4,7 +4,7 @@ type: project
 image: img/belonging/TitleLogo.png
 title: "Belonging"
 date: 2025
-published: false
+published: true
 labels:
   - Unity
   - GitHub
