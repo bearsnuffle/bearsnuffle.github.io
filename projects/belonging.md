@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/belonging/TitleLogo.png
+image: img/belonging/belongingLogo.png
 title: "Belonging"
 date: 2025
 published: true
@@ -10,7 +10,6 @@ labels:
   - GitHub
 summary: "A 2D platformer game that I helped develop for ICS 485."
 ---
-
 <img class="img-fluid" src="../img/belonging/TitleLogo.png">
 
 ### What is Belonging?
