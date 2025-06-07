@@ -23,14 +23,14 @@ It also has multiple 2D platformer levels, where most of the action and gameplay
 including two bosses.
 
 ### My Role
-I mainly helped implement the 2D platformer part. That included designing the inventory system, level design, some part of the enemy AI, and other minor environmental features.
+I mainly helped implement the 2D platformer part. That included implementing the inventory system and consumables, level design, part of the enemy AI, and other minor environmental features.
 
 The game is not yet finished. But here is a little trailer to see our progress.
 
 {% include youtube.html id="OtlVA214Uug" %}
 
 You can also see more at our game site here:
-Source: <a href="https:https://just-making-kool-renders.github.io"><i class="large github icon "></i>Belonging Main Site</a>
+<a href="https:https://just-making-kool-renders.github.io"><i class="large github icon "></i>Belonging Main Site</a>
 
 
 
