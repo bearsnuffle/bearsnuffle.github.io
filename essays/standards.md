@@ -17,7 +17,7 @@ Presumably anybody who codes for a living must deal with coding standards. Wheth
 important way to keep everyone on the same page. If you are over here writing like a caveman, and I write like Shakespeare, there is going to be vastly different
 comments by the people who have to go back and debug our code. 
 
-<cave drawing>
+<img src="../img/standards/caveman.jpg">
 
 What is man on top of triangle? 
 
@@ -30,7 +30,7 @@ Its fair to say their are certain standards that go beyond languages. We almost 
 I say these standards are: 
 
 
-<img src="../img/standards/approved.jpg">
+<img width="160px" src="../img/standards/approved.jpg">
 
 
 ## Language Specific Standards
@@ -40,7 +40,7 @@ When it comes to different languages, the obvious differences come from syntax. 
 I say these standards are:
 
 
-<img src="../img/standards/approved.jpg">
+<img width="160px" src="../img/standards/approved.jpg">
 
 
 ## What's Left? 
@@ -51,7 +51,7 @@ That about covers most of it. However, there is one last part I have to mention.
 <img src="../img/standards/me.png">
 
 
-As you can see, though, I get an error. This is because ESLint wants you to put it what I assume is the commonly taught way:
+As you can see, though, I get an error. This is because ESLint wants you to put it as what I assume is the commonly taught way:
 
 
 <img src="../img/standards/them.png">
@@ -62,7 +62,7 @@ Now, for the record, I do believe this changable somewhere in the ESLint prefere
 So for minor, unnecessary formating standards I say:
 
 
-<img src="../img/standards/rejected.jpg">
+<img width="160px" src="../img/standards/rejected.jpg">
 
 
 Thank you for reading this PSA.
