@@ -12,6 +12,7 @@ labels:
 
 # Coding Standards
 
+
 Presumably anybody who codes for a living must deal with coding standards. Whether its enforced by a teacher or company or for a group project, coding standards are an
 important way to keep everyone on the same page. If you are over here writing like a caveman, and I write like Shakespeare, there is going to be vastly different
 comments by the people who have to go back and debug our code. 
@@ -28,7 +29,9 @@ Its fair to say their are certain standards that go beyond languages. We almost 
 
 I say these standards are: 
 
+
 <img src="../img/standards/approved.jpg">
+
 
 ## Language Specific Standards
 
@@ -36,23 +39,31 @@ When it comes to different languages, the obvious differences come from syntax. 
 
 I say these standards are:
 
+
 <img src="../img/standards/approved.jpg">
+
 
 ## What's Left? 
 
 That about covers most of it. However, there is one last part I have to mention. When I code in Java/Typescript, I am instructed to use ESLint to identify any errors. This also includes some styling standards as well. Ever since I took Program Structure at UH Manoa, I've become fond of putting my curly brackes on their own line. That is:
 
+
 <img src="../img/standards/me.png">
+
 
 As you can see, though, I get an error. This is because ESLint wants you to put it what I assume is the commonly taught way:
 
+
 <img src="../img/standards/them.png">
+
 
 Now, for the record, I do believe this changable somewhere in the ESLint preferences or settings. However, I would also say that this really shouldn't even be an error in the first place! Going back to my paragraph on Basic Standards, a lot of languages incoporate the same basic structures. They basically have to. As a result I think there should be some allowance of "artistic expression" in terms of how we format some of our code. I think both ways are valid options and maintain a clean look to them, so dont force your ways upon me I say!
 
 So for minor, unnecessary formating standards I say:
 
+
 <img src="../img/standards/rejected.jpg">
+
 
 Thank you for reading this PSA.
 
