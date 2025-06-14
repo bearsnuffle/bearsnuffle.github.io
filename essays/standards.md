@@ -17,9 +17,9 @@ Presumably anybody who codes for a living must deal with coding standards. Wheth
 important way to keep everyone on the same page. If you are over here writing like a caveman, and I write like Shakespeare, there is going to be vastly different
 comments by the people who have to go back and debug our code. 
 
-<img src="../img/standards/caveman.jpg">
+<img width="500px" src="../img/standards/caveman.jpg">
 
-What is man on top of triangle? 
+*What is man with stick?* 
 
 You could say Typescript came about because someone said we *need* to have some notation in terms of what types of variables we are working with and passing, etc. Typescript then is a standard for Javascript that says label your code. Okay, fair enough. But to what level should our code be standardized? Down to every little indent? What about the way I format my functions? Hm? Who is anybody to tell me how to do that?!?!
 
